@@ -1,2 +1,3 @@
-# Flames-Game
-The Python FLAMES game is a GitHub repository that provides a command-line interface for playing the classic FLAMES game. FLAMES stands for Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. 
+The Python FLAMES game is a GitHub repository that provides a command-line interface for playing the classic FLAMES game. FLAMES stands for Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. The game is played by entering the names of two people and then eliminating the letters that appear in both names. The remaining letters are used to calculate the relationship between the two people.
+
+The Python FLAMES game provides a simple and easy-to-use interface for playing the game. Users can input the names of two people and then receive a result indicating the relationship between them. The repository includes code that uses Python's built-in string and list manipulation functions to perform the necessary calculations.
